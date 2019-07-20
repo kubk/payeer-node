@@ -1,4 +1,4 @@
-import { Payeer } from './payeer';
+import { Payeer } from '../src/payeer';
 import { Money } from 'ts-money';
 
 describe('Payeer', () => {

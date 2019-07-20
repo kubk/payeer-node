@@ -2,6 +2,9 @@
 
 [Payeer](https://payeer.com/en/) payment gateway API for Node.js
 
+### Installation
+- `npm install payeer-node`
+
 ### Examples
 1. Generate payment page url:
 ```javascript
