@@ -33,7 +33,7 @@ expect(callback.orderId).toEqual(50);
 expect(callback.isPaymentSuccess).toBeTruthy();
 ```
 
-Please refer [tests](https://github.com/kubk/payeer-node/blob/master/src/payeer.test.ts) for details.
+Please refer [tests](https://github.com/kubk/payeer-node/blob/master/test/payeer.test.ts) for details.
 
 ### Contribution
 - `git clone`
