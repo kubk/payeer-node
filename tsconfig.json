@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "lib": ["es6", "es2015"],
+    "module": "commonjs",
+    "noImplicitReturns": true,
+    "outDir": "lib",
+    "sourceMap": true,
+    "alwaysStrict": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "target": "es6"
+  },
+  "compileOnSave": true,
+  "include": [
+    "src"
+  ]
+}

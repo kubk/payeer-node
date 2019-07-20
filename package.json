@@ -1,0 +1,26 @@
+{
+  "name": "payeer-node",
+  "version": "1.0.0",
+  "description": "Payeer payment gateway API for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "test": "jest"
+  },
+  "author": "kubk",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "mcrypt": "^0.1.15",
+    "ts-money": "^0.4.6"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.15",
+    "@types/mcrypt": "^0.1.0",
+    "@types/node": "^12.6.8",
+    "jest": "^24.8.0",
+    "prettier": "^1.18.2",
+    "ts-jest": "^24.0.2",
+    "typescript": "^3.5.3"
+  }
+}
