@@ -1,4 +1,4 @@
-## payeer-node [![Build Status](https://travis-ci.org/kubk/algoholizm.svg?branch=master)](https://travis-ci.org/kubk/payeer-node)
+## payeer-node [![Build Status](https://travis-ci.org/kubk/algoholizm.svg?branch=master)](https://travis-ci.org/kubk/payeer-node) [![npm version](https://badge.fury.io/js/payeer-node.svg)](https://badge.fury.io/js/payeer-node)
 
 [Payeer](https://payeer.com/en/) payment gateway API for Node.js
 
