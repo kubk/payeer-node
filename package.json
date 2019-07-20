@@ -8,6 +8,8 @@
     "build": "npx tsc",
     "test": "jest"
   },
+  "keywords": ["node", "payeer"],
+  "repository": "https://github.com/kubk/payeer-node",
   "author": "kubk",
   "license": "ISC",
   "dependencies": {
