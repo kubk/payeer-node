@@ -8,6 +8,9 @@
 ### Examples
 1. Generate payment page url:
 ```javascript
+import { Payeer } from 'payeer-node';
+import { Money } from 'ts-money';
+
 const payeer = new Payeer({
   shopId: process.env.PAYEER_SHOP_ID,
   secretKey: process.env.PAYEER_SECRET_KEY,
